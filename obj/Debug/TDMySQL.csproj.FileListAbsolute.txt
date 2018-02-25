@@ -1,0 +1,9 @@
+D:\Trabajos\Ludus\C#\TDMySQL\TDMySQL\obj\Debug\TDMySQL.csprojResolveAssemblyReference.cache
+D:\Trabajos\Ludus\C#\TDMySQL\TDMySQL\obj\Debug\TDMySQL.csproj.CoreCompileInputs.cache
+D:\Trabajos\Ludus\C#\TDMySQL\TDMySQL\bin\Debug\TDMySQL.exe.config
+D:\Trabajos\Ludus\C#\TDMySQL\TDMySQL\bin\Debug\TDMySQL.exe
+D:\Trabajos\Ludus\C#\TDMySQL\TDMySQL\bin\Debug\TDMySQL.pdb
+D:\Trabajos\Ludus\C#\TDMySQL\TDMySQL\bin\Debug\MySql.Data.dll
+D:\Trabajos\Ludus\C#\TDMySQL\TDMySQL\bin\Debug\MySql.Data.xml
+D:\Trabajos\Ludus\C#\TDMySQL\TDMySQL\obj\Debug\TDMySQL.exe
+D:\Trabajos\Ludus\C#\TDMySQL\TDMySQL\obj\Debug\TDMySQL.pdb
